@@ -1,0 +1,31 @@
+{
+  "evidencia": [
+    {
+      "personajes": {
+        "ARAIZA": false,
+        "JAVIER": false,
+        "HUGO": false,
+        "BRUNO": false,
+        "JULIAN": false
+      }
+    },
+    {
+      "locaciones": {
+        "SALON": false,
+        "CAFETERIA": false,
+        "AUDITORIO": false,
+        "LABORATORIO": false,
+        "ESTACIONAMIENTO": false
+      }
+    },
+    {
+      "armas": {
+        "CUCHILLO": false,
+        "PISTOLA": false,
+        "TIJERAS": false,
+        "CABLES": false,
+        "VENENO": false
+      }
+    }
+  ]
+}
